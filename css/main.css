@@ -45,6 +45,7 @@ padding-right:20px;}
     width: 40%;
     float: left;
     margin:20px;
+
     padding: center;
     background-color:#77A7AF;
     text-align: center;
@@ -161,7 +162,8 @@ p {margin-left:20px;
 
 #mComp { background-color: #77A7AF;
          padding: 40px;
-         margin-top: 60px;
+         margin-top:20px;
+         margin-bottom: 30px;
          text-align: center;
          font-family: times;
          font-size: 30px;
