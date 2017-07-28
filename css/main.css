@@ -4,7 +4,7 @@ header {color: #fff;
    text-align: center;
    line-height: 100px;
    padding: 10px;
-   font-family: times;
+   font-family: 'Playfair Display';
    font-size: 200%;
 }
 
@@ -14,7 +14,7 @@ footer {color: #fff;
    background-color: #002C36;
    text-align: center;
    line-height: 30px;
-   font-family: times;
+   font-family: 'Playfair Display';
    padding-bottom: 10px;
    padding-top: 10px;
    font-size: 20%;
@@ -22,10 +22,10 @@ footer {color: #fff;
 
 
 body{ background-color: #DFEFEF;
-      font-family: Baskerville;
+      font-family: 'Playfair Display';
    }
 
-#quote {font-family: times;
+#quote {font-family: 'Playfair Display';
          background-color: #969377;
          padding: 12px;
          margin-top: 10px;
@@ -49,7 +49,7 @@ padding-right:20px;}
     padding: center;
     background-color:#77A7AF;
     text-align: center;
-    font-family: times;
+    font-family: 'Playfair Display';
 }
 
 .card2 {
@@ -61,7 +61,7 @@ padding-right:20px;}
     padding: right;
     background-color:#77A7AF;
     text-align: center;
-    font-family: times;
+    font-family: 'Playfair Display';
     position: relative;
     top:160px;
 }
@@ -75,12 +75,10 @@ padding-right:20px;}
     padding: left;
     background-color:#77A7AF;
     text-align: center;
-    font-family: times;
+    font-family: 'Playfair Display';
     position: relative;
-
     top:100px;
     clear:left;
-
 }
 
 .card4 {
@@ -92,7 +90,7 @@ padding-right:20px;}
     padding: center;
     background-color:#77A7AF;
     text-align: center;
-    font-family: times;
+    font-family: 'Playfair Display';
     position: relative;
     top:250px;
 }
@@ -106,7 +104,7 @@ padding-right:20px;}
     padding: center;
     background-color:#77A7AF;
     text-align: center;
-    font-family: times;
+    font-family: 'Playfair Display';
     position: relative;
     clear:left;
     top:200px;
@@ -121,7 +119,7 @@ padding-right:20px;}
 
     background-color:#84816F;
     text-align: left;
-    font-family: times;
+    font-family: 'Playfair Display';
     line-height: 1.5;
 
 }
@@ -135,7 +133,7 @@ padding-right:20px;}
 
     background-color:#84816F;
     text-align: left;
-    font-family: times;
+    font-family: 'Playfair Display';
     line-height: 1.5;
 }
 
@@ -165,16 +163,18 @@ p {margin-left:20px;
          margin-top:20px;
          margin-bottom: 30px;
          text-align: center;
-         font-family: times;
+         font-family: 'Playfair Display';
          font-size: 30px;
+         font-weight: 600;
        }
 
 #REVS { background-color: #84816F;
 padding: 40px;
 margin-top: 800px;
 text-align: center;
-font-family: times;
+font-family: 'Playfair Display';
 font-size: 30px;
+font-weight: 600;
        }
 .reviews{align-content: left;}
 
