@@ -155,12 +155,13 @@ p {margin-left:20px;
 
 
 
+
    }
 
 
 #mComp { background-color: #77A7AF;
          padding: 40px;
-         margin-top: 10px;
+         margin-top: 60px;
          text-align: center;
          font-family: times;
          font-size: 30px;
@@ -168,9 +169,10 @@ p {margin-left:20px;
 
 #REVS { background-color: #84816F;
 padding: 40px;
-margin-top: 10px;
+margin-top: 800px;
 text-align: center;
 font-family: times;
 font-size: 30px;
        }
 .reviews{align-content: left;}
+
