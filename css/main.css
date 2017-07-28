@@ -1,0 +1,176 @@
+header {color: #fff;
+   background-color: #002C36;
+   padding: 1em;
+   text-align: center;
+   line-height: 100px;
+   padding: 10px;
+   font-family: times;
+   font-size: 200%;
+}
+
+#al{font-size: 300%;}
+
+footer {color: #fff;
+   background-color: #002C36;
+   text-align: center;
+   line-height: 30px;
+   font-family: times;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   font-size: 20%;
+}
+
+
+body{ background-color: #DFEFEF;
+      font-family: Baskerville;
+   }
+
+#quote {font-family: times;
+         background-color: #969377;
+         padding: 12px;
+         margin-top: 10px;
+         text-align: center;
+         line-height: 1.5;
+         font-style: italic;
+       }
+
+ul{list-style-type: none;
+   line-height: 2;}
+ol{padding-left: 20px;
+padding-right:20px;}
+
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    float: left;
+    margin:20px;
+    padding: center;
+    background-color:#77A7AF;
+    text-align: center;
+    font-family: times;
+}
+
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    float: right;
+    margin:20px;
+    padding: right;
+    background-color:#77A7AF;
+    text-align: center;
+    font-family: times;
+    position: relative;
+    top:160px;
+}
+
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    float: left;
+    margin:20px;
+    padding: left;
+    background-color:#77A7AF;
+    text-align: center;
+    font-family: times;
+    position: relative;
+
+    top:100px;
+    clear:left;
+
+}
+
+.card4 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    float: right;
+    margin:20px;
+    padding: center;
+    background-color:#77A7AF;
+    text-align: center;
+    font-family: times;
+    position: relative;
+    top:250px;
+}
+
+.card5 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    float: left;
+    margin:20px;
+    padding: center;
+    background-color:#77A7AF;
+    text-align: center;
+    font-family: times;
+    position: relative;
+    clear:left;
+    top:200px;
+
+}
+
+.cardALLMUSIC {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 94%;
+    margin:20px;
+
+    background-color:#84816F;
+    text-align: left;
+    font-family: times;
+    line-height: 1.5;
+
+}
+
+.cardEMC {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 94%;
+    margin:20px;
+    margin-right: 20px;
+
+    background-color:#84816F;
+    text-align: left;
+    font-family: times;
+    line-height: 1.5;
+}
+
+p {margin-left:20px;
+   margin-right:20px;}
+
+.container {
+    padding: 10px 20px;
+    background-color: #fff;
+    text-align:center;
+
+   }
+
+   .containerR {
+    padding: 10px;
+    background-color: #fff;
+    text-align:center;
+
+
+
+   }
+
+
+#mComp { background-color: #77A7AF;
+         padding: 40px;
+         margin-top: 10px;
+         text-align: center;
+         font-family: times;
+         font-size: 30px;
+       }
+
+#REVS { background-color: #84816F;
+padding: 40px;
+margin-top: 10px;
+text-align: center;
+font-family: times;
+font-size: 30px;
+       }
+.reviews{align-content: left;}
